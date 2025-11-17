@@ -2,7 +2,6 @@ name: Bug report
 description: Report a bug in Mitogen 0.3.x (for Ansible 2.10 and above)
 labels:
   - affects-0.3
-type: bug
 
 body:
   - type: textarea
